@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mistral-tokenizer-js": "^1.0.0",
+    "mistral-tokenizer-ts": "^1.2.0"
+  }
+}
