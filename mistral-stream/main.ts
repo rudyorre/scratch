@@ -56,6 +56,7 @@ rl.question('What is your question? ', (question) => {
                         try {
                             data = JSON.parse(line.slice(5)); // Remove the "data: " prefix
                         } catch(e) {
+                            console.log(line);
                             throw e;
                         }
                         // Check if the chunk contains a message
