@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "dotenv": "^16.4.5",
+    "https": "^1.0.0",
+    "typescript": "^5.4.3"
+  }
+}
